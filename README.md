@@ -1,2 +1,2 @@
 # proy_prot
-Proyecto para analizar el desempeño de los protocolos MQTT, AMQP y CoAP en plataformas de IoT
+This project allows to analyze the performance of some communication protocols (MQTT, AMQP and CoAP) in IoT platforms
